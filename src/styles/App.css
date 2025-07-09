@@ -1,0 +1,19 @@
+body {
+  background-image: url('../assets/bg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.title {
+  text-align: center;
+  font-size: 56px;
+  font-weight: bold;
+  margin: 48px auto 48px;  
+  max-width: 300px;         
+  line-height: 1.1;
+  color: #1f1e3b;
+}

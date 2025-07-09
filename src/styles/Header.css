@@ -1,0 +1,61 @@
+.background {
+    position: relative;             
+    background-color: #233239;
+    width: 100vw;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.header-title {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.cart {
+    position: absolute;
+    right: 32px;                    
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.cart button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 0;
+}
+
+.cart img {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+    cursor: pointer;
+}
+
+.cart-title {
+    color: white;
+    font-size: 12px;
+    margin: 0;
+}
+
+.cart-count-badge {
+    position: absolute;
+    bottom: -5px;
+    left: -5px;
+    background-color: red;
+    color: white;
+    font-size: 12px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

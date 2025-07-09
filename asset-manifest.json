@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vois-react-task/static/css/main.6777d27e.css",
+    "main.js": "/vois-react-task/static/js/main.cf39ee42.js",
+    "static/media/bg.png": "/vois-react-task/static/media/bg.9170639975c2e1fd4a1d.png",
+    "static/media/item3.png": "/vois-react-task/static/media/item3.4d3255a9949c2e6c34cd.png",
+    "static/media/item1.png": "/vois-react-task/static/media/item1.957cc2c984669a3f7f52.png",
+    "static/media/item2.png": "/vois-react-task/static/media/item2.192d3b55db6cefd1d48d.png",
+    "static/media/item6.png": "/vois-react-task/static/media/item6.92ddf7f67f22032d295e.png",
+    "static/media/item5.png": "/vois-react-task/static/media/item5.52217bc51cf8811f6c99.png",
+    "static/media/item4.png": "/vois-react-task/static/media/item4.332f45e7401411d647d8.png",
+    "static/media/item7.png": "/vois-react-task/static/media/item7.fd8a71790a2aef23621a.png",
+    "static/media/item8.png": "/vois-react-task/static/media/item8.2b6476dd8dde9a905ce6.png",
+    "static/media/cart.svg": "/vois-react-task/static/media/cart.d587779eea27d4d58da0064372a51cef.svg",
+    "static/media/tooltip-hover.svg": "/vois-react-task/static/media/tooltip-hover.da9837cabdc9ac896e5841f1c015faf4.svg",
+    "static/media/tooltip-static.svg": "/vois-react-task/static/media/tooltip-static.8d002f2fad72fb879ce41db3e15ab76d.svg",
+    "index.html": "/vois-react-task/index.html",
+    "main.6777d27e.css.map": "/vois-react-task/static/css/main.6777d27e.css.map",
+    "main.cf39ee42.js.map": "/vois-react-task/static/js/main.cf39ee42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6777d27e.css",
+    "static/js/main.cf39ee42.js"
+  ]
+}
